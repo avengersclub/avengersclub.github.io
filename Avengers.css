@@ -135,7 +135,7 @@ section:nth-of-type(4) .icon {
 	border-radius: 10px;
 	animation-name: notification;
 	animation-duration: .5s;
-	animation-timing-function: ease-in;
+	animation-timing-function: ease;
 	animation-delay: .5s;
 	animation-fill-mode: forwards;
 	opacity: 0;
