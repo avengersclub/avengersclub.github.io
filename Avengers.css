@@ -98,7 +98,7 @@ section a:hover,
 	transition: opacity .5s ease-in-out;
 }
 section:nth-of-type(1) .icon {
-	background-image: url(27.webp);
+	background-image: url(club.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
